@@ -1,6 +1,6 @@
 # Hey there, I'm Loc! 👋
 
-Welcome to my GitHub! I'm a passionate [your role, e.g., developer/designer] from [your location, e.g., Vietnam], obsessed with crafting clean code and exploring cutting-edge tech. I’m currently [what you're doing, e.g., studying at XYZ University, working on personal projects]. Let’s build something awesome together!
+Welcome to my GitHub! I'm a passionate developer from Vietnam, obsessed with crafting clean code and exploring cutting-edge tech. I’m currently working on personal projects and learning new skills. Let’s build something awesome together!
 
 ---
 
@@ -14,15 +14,15 @@ Welcome to my GitHub! I'm a passionate [your role, e.g., developer/designer] fro
 
 ### 📊 GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locthdzev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=locthdzev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=locthdzev&layout=compact&theme=tokyonight&hide=html)
 
 ---
 
 ### 🛠️ Projects I’m Proud Of
-- **[Project Name 1](link-to-project)**  
-  A cool project where I [describe briefly, e.g., built a web app with React].  
-- **[Project Name 2](link-to-project)**  
-  My experiment with [e.g., Python automation] that [result, e.g., saved 10 hours of work].
+- **[Coming Soon](https://github.com/locthdzev)**  
+  A cool project I’m working on—stay tuned for updates!  
+- **[Portfolio Website](https://github.com/locthdzev)**  
+  My personal site built with [e.g., React]—check it out soon!
 
 ---
 
