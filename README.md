@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> hello, i’m devzxloc! </h3>
+  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello, I’m Hoang Loc! </h3>
   <p><em>Back-end developer passionate about building robust systems with C# | Enthusiast of exploring modern tech solutions</em></p>
 </div>
 
