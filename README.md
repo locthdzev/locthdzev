@@ -219,3 +219,143 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling&fontColor=ffffff"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+        <br>REST API
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        <br>Nginx
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Terminal Typing Effect -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" width="100%"/>
+</div>
+
+<!-- Hiển thị code đang chạy -->
+<div align="center">
+  <h2>👨‍💻 Coding... <img src="https://i.imgur.com/GrYK8Md.gif" width="30px"></h2>
+  
+  ```csharp
+  while (isAlive) 
+  {
+      Coffee.Drink();
+      
+      if (Problem.IsComplex()) 
+      {
+          Brain.Think();
+          Solution.Implement();
+          Code.Test();
+      } 
+      else 
+      {
+          Solution.QuickFix();
+      }
+      
+      Experience++;
+      Knowledge.Expand();
+      
+      if (!Coffee.IsEmpty) continue;
+      Coffee.Refill();
+  }
+  ```
+</div>
+
+<!-- Dynamic Skills Section -->
+<h2 align="center">⚡ Skills in Action</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,docker,kubernetes,git,github,githubactions,nodejs,react,angular,typescript,javascript,python,figma,mongodb,mysql,postgres,redis&perline=10" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<!-- Dynamic Status Bar -->
+<div align="center">
+  <h2>⚙️ Systems Status</h2>
+  
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+  ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+  ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
+  ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=6aa6f8)
+  
+  ![CPU](https://img.shields.io/badge/CPU-i7_12th_Gen-blue.svg?style=flat&logo=intel&logoColor=white)
+  ![RAM](https://img.shields.io/badge/RAM-32GB-blue.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4QQQEwkySWrS2AAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAFmSURBVCjPY2CgB/g/j0H5/2wGW3roh9I4gPV/18YH/7deeP/fttTfltrbBEP6VrNQuvYc4/8dV97/37z38f9FO+7/L1nUl0jX2q5Y/H/r5ff/t114/3/rhff/S1Z2xtG1ZvPs/1vPv/vfuvP9/9KVHXFIlrQBTeogKdS0vin5/6YzQA1A2rygJRLFJcXrnP9bzn34b9rw8L9Jw8P/9Uvq/mMBSpzAoGrZQNN68OMr13Yt/Tf75ev/jRcZ/vdewPDfowH2P8YCDAz/gZgRCLBrNFqy8n/J5f//a8+XYCjEojEdqHH13///1wE1ZgA1opnECMIpwPD/f82t//9TT7L/dwVpRLIpBYhbgbgNiFNAGpmBOAdobARiM8b//x2A4hkMDCHM/90Y/v/X+/f/vyYQawCxMBCzwmwGpayBOBmIZYFYEoglgVgIkHH/f8b/zAz/2Rgg4D/bfyaGK/9/MXz6f5ThBcMThv//GRgYAYbkyJZtuEGcAAAAAElFTkSuQmCC)
+  ![GPU](https://img.shields.io/badge/GPU-RTX_3080-green.svg?style=flat&logo=nvidia&logoColor=white)
+  ![Monitor](https://img.shields.io/badge/Monitor-Dual_4K-green.svg?style=flat)
+  
+  <a href="https://wakatime.com/@locthdzev">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime Stats" />
+  </a>
+  
+  <a href="https://github.com/locthdzev">
+    <img src="https://img.shields.io/github/last-commit/locthdzev/locthdzev?logo=github&style=flat&color=success" alt="Last Commit">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Coffee_Level-High-brown?style=flat&logo=buy-me-a-coffee&logoColor=white">
+  <img src="https://img.shields.io/badge/Bugs-Squashed-red?style=flat&logo=codacy&logoColor=white">
+</div>
+
+<!-- Animated Dev Quote -->
+<div align="center">
+  <h2>💭 Developer Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+</div>
+
+<!-- Glowing Tech Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
