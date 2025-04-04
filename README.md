@@ -1,23 +1,27 @@
 <div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50" />
-  <h1>✨ Hello, I'm Trần Hoàng Lộc! ✨</h1>
-  <p><em>Back-end developer passionate about building robust systems with C# | Enthusiast of exploring modern tech solutions</em></p>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=35&duration=3000&pause=800&color=20C20E&center=true&vCenter=true&random=false&width=500&height=70&lines=%3C%2F+TR%E1%BA%A6N+HO%C3%80NG+L%E1%BB%98C+%3E;%3C%2F+C%23+DEVELOPER+%3E;%3C%2F+BACKEND+EXPERT+%3E" alt="Typing Name" />
+  </h1>
   
-  <a href="https://github.com/locthdzev" target="_blank">
-    <img src="https://img.shields.io/github/followers/locthdzev?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/locthdzev?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repos-blue?style=flat&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
+  <div style="margin-top: -20px;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=00D9F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Back-end+developer+passionate+about+building+robust+systems;Turning+coffee+into+code+%E2%98%95+%7C+Byte+by+byte%2C+building+digital+solutions" alt="Typing SVG" /></a>
+  </div>
+  
+  <div style="margin-top: 15px;">
+    <a href="https://github.com/locthdzev" target="_blank">
+      <img src="https://img.shields.io/github/followers/locthdzev?label=Follow&style=social" alt="GitHub followers"/>
+    </a>
+    <a href="https://github.com/locthdzev?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Repos-blue?style=flat&logo=github&logoColor=white" alt="Repositories"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=locthdzev&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D533&center=true&vCenter=true&width=435&lines=C%23+Developer;Cloud+Architecture+Enthusiast;Back-end+Expert;Problem+Solver" alt="Typing SVG" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-## 🌟 About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding GIF"/>
 
 - 🔭 I'm currently working on building robust backend systems
@@ -39,7 +43,18 @@
 
 <br>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
+</p>
 
 <details open>
 <summary><b>Programming Languages</b></summary>
@@ -57,6 +72,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 </details>
 
 <details>
@@ -74,6 +90,7 @@
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 </details>
 
 <details>
@@ -90,6 +107,7 @@
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 </details>
 
 <details>
@@ -104,6 +122,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </details>
 
 <details>
@@ -120,6 +139,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 </details>
 
 <details>
@@ -135,43 +155,47 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 </details>
 
-## 📈 GitHub Analytics
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/locthdzev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=locthdzev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=locthdzev&layout=compact&theme=tokyonight&hide=html"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=locthdzev&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=locthdzev&theme=tokyonight&row=1&column=6&margin-w=15&no-bg=false" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locthdzev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/QTlmH8hEoVoi83MDJq/giphy.gif" width="40"> GitHub Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=locthdzev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=locthdzev&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" height="100" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" alt="Pull Shark x3"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" height="100" alt="YOLO"/>
+  
+  <p>🏆 <b>3x Pull Shark</b> | 🚀 <b>Quickdraw</b> | 🎯 <b>YOLO</b></p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locthdzev&layout=compact&theme=radical&hide=html&border_radius=10" width="450" alt="Top Languages"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locthdzev&bg_color=141321&color=fd428e&line=a9fef7&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=locthdzev&theme=radical&row=1&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" height="90" alt="Quickdraw"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" height="90" alt="Pull Shark x3"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" alt="YOLO"/>
-</div>
-
-## 📫 Connect with Me
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="65"> Connect with Me
 
 <div align="center">
   <a href="mailto:your.email@example.com">
@@ -183,13 +207,15 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://t.me/your-telegram">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=locthdzev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=locthdzev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-  <p>Thanks for stopping by! Let's code something awesome together! 🚀</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling&fontColor=ffffff"/>
 </div>
