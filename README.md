@@ -336,18 +336,6 @@
   ![RAM](https://img.shields.io/badge/RAM-32GB-blue.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4QQQEwkySWrS2AAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAFmSURBVCjPY2CgB/g/j0H5/2wGW3roh9I4gPV/18YH/7deeP/fttTfltrbBEP6VrNQuvYc4/8dV97/37z38f9FO+7/L1nUl0jX2q5Y/H/r5ff/t114/3/rhff/S1Z2xtG1ZvPs/1vPv/vfuvP9/9KVHXFIlrQBTeogKdS0vin5/6YzQA1A2rygJRLFJcXrnP9bzn34b9rw8L9Jw8P/9Uvq/mMBSpzAoGrZQNN68OMr13Yt/Tf75ev/jRcZ/vdewPDfowH2P8YCDAz/gZgRCLBrNFqy8n/J5f//a8+XYCjEojEdqHH13///1wE1ZgA1opnECMIpwPD/f82t//9TT7L/dwVpRLIpBYhbgbgNiFNAGpmBOAdobARiM8b//x2A4hkMDCHM/90Y/v/X+/f/vyYQawCxMBCzwmwGpayBOBmIZYFYEoglgVgIkHH/f8b/zAz/2Rgg4D/bfyaGK/9/MXz6f5ThBcMThv//GRgYAYbkyJZtuEGcAAAAAElFTkSuQmCC)
   ![GPU](https://img.shields.io/badge/GPU-RTX_3080-green.svg?style=flat&logo=nvidia&logoColor=white)
   ![Monitor](https://img.shields.io/badge/Monitor-Dual_4K-green.svg?style=flat)
-  
-  <a href="https://wakatime.com/@locthdzev">
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime Stats" />
-  </a>
-  
-  <a href="https://github.com/locthdzev">
-    <img src="https://img.shields.io/github/last-commit/locthdzev/locthdzev?logo=github&style=flat&color=success" alt="Last Commit">
-  </a>
-  
-  <img src="https://img.shields.io/badge/Coffee_Level-High-brown?style=flat&logo=buy-me-a-coffee&logoColor=white">
-  <img src="https://img.shields.io/badge/Bugs-Squashed-red?style=flat&logo=codacy&logoColor=white">
-</div>
 
 <!-- Animated Dev Quote -->
 <div align="center">
