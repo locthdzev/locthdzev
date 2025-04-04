@@ -1,37 +1,195 @@
 <div align="center">
-  <h3> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello, I’m Hoang Loc! </h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50" />
+  <h1>✨ Hello, I'm Trần Hoàng Lộc! ✨</h1>
   <p><em>Back-end developer passionate about building robust systems with C# | Enthusiast of exploring modern tech solutions</em></p>
+  
+  <a href="https://github.com/locthdzev" target="_blank">
+    <img src="https://img.shields.io/github/followers/locthdzev?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/locthdzev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repos-blue?style=flat&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D533&center=true&vCenter=true&width=435&lines=C%23+Developer;Cloud+Architecture+Enthusiast;Back-end+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌟 About Me
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="Coding GIF"/>
-- 🔭 I’m working on: [Describe your current project or job]
-- 🌱 I’m learning: [Technology/language you’re exploring]
-- 👯 I’d love to collaborate on: [Type of project you’re interested in]
-- ⚡ Fun fact: [Something interesting about you]
+## 🌟 About Me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding GIF"/>
 
-### 🛠️ Tools & Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- 🔭 I'm currently working on building robust backend systems
+- 🌱 I'm learning advanced C# techniques and cloud architecture
+- 👯 I'd love to collaborate on open-source C# projects
+- 🏙️ Based in Cần Thơ, Vietnam
+- 🎯 Focusing on becoming a better developer every day
+- ⚡ Fun fact: I've earned the "Pull Shark" achievement 3 times on GitHub!
 
-### 📊 GitHub Stats
+<details>
+<summary><b>🚀 Click for more...</b></summary>
+
+- 📚 Always learning new technologies and improving coding skills
+- 🧩 Enjoys solving complex programming challenges
+- 🌐 Interested in cloud infrastructure and scalable services
+- 🛠️ Love building efficient and maintainable code
+- 🤝 Open to connect with other developers and tech enthusiasts
+</details>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+</details>
+
+<details>
+<summary><b>Backend</b></summary>
+<br>
+
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</details>
+
+<details>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</details>
+
+<details>
+<summary><b>Mobile & Other</b></summary>
+<br>
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
+</details>
+
+## 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=dracula" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=dracula" alt="Top Languages"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=locthdzev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=locthdzev&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 📫 Connect with Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 🌍 Website/Blog: [yourwebsite.com](https://yourwebsite.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locthdzev&layout=compact&theme=radical&hide=html&border_radius=10" width="450" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locthdzev&bg_color=141321&color=fd428e&line=a9fef7&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=locthdzev&theme=radical&row=1&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies"/>
+</div>
+
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" height="90" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" height="90" alt="Pull Shark x3"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" alt="YOLO"/>
+</div>
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/locthdzev">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! Let’s code something awesome together! 🚀</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=locthdzev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <p>Thanks for stopping by! Let's code something awesome together! 🚀</p>
 </div>
